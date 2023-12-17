@@ -20,7 +20,7 @@ En el package negocio se encuentra la clase Tienda, la cual se encarga de gestio
 
 En el package presentacion se encuentra la clase pública interfazUsuario que es la clase principal que contiene la lógica para interactuar con el programa.
 
-![image](https://github.com/manutabasco/tiendaZapatillas/assets/145661237/a7f1ffde-d132-4351-8f3f-dc080e7360a6)
+![image](diagrama_clases.png)
 
 ## Licencia
 **Copyright** [2023] [Jaime Berlanga Comas]
