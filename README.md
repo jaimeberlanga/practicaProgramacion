@@ -20,7 +20,7 @@ En el package negocio se encuentra la clase Tienda, la cual se encarga de gestio
 
 En el package presentacion se encuentra la clase pública interfazUsuario que es la clase principal que contiene la lógica para interactuar con el programa.
 
-![Diagrama UML](diagrama_clases.png)
+![diagrama UML](diagrama_clases.png)
 
 ## Licencia
 **Copyright** [2023] [Jaime Berlanga Comas]
